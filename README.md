@@ -1,4 +1,4 @@
-<!-- CYBERPUNK THEMED GITHUB PROFILE README FOR @mohammedriskhan11 -->
+<!-- CYBERPUNK THEMED GITHUB PROFILE README FOR @mrmriskhan11 -->
 
 <div align="center">
 
@@ -14,10 +14,10 @@
     <a href="https://www.linkedin.com/in/mohammed-riskhan11/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00F0FF&labelColor=0D0F18" alt="LinkedIn Badge" />
     </a>
-    <a href="https://github.com/mohammedriskhan11">
+    <a href="https://github.com/mrmriskhan11">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=FF0055&labelColor=0D0F18" alt="GitHub Badge" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:mohammedriskhan11@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FCEE09&labelColor=0D0F18" alt="Email Badge" />
     </a>
   </p>
@@ -32,6 +32,7 @@
 
 ```yaml
 User: Mohammed Riskhan
+GitHub: mrmriskhan11
 Status: Student & Developer
 Focus: Web Development | UI/UX Design | AI Content Creation
 Location: Global / Remote
@@ -92,7 +93,7 @@ Motto: "Crafting digital experiences where aesthetic design meets intelligent co
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammedriskhan11&theme=cyberpunk&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Mohammed's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mrmriskhan11&theme=cyberpunk&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Mohammed's GitHub Trophies" />
   </a>
 </p>
 
@@ -107,13 +108,13 @@ Motto: "Crafting digital experiences where aesthetic design meets intelligent co
 ### 📊 `// TELEMETRY_AND_ANALYTICS`
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedriskhan11&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D0F18&title_color=00F0FF&icon_color=FF0055&text_color=E0E0E0" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrmriskhan11&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D0F18&title_color=00F0FF&icon_color=FF0055&text_color=E0E0E0" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedriskhan11&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D0F18&title_color=FF0055&text_color=E0E0E0" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmriskhan11&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D0F18&title_color=FF0055&text_color=E0E0E0" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedriskhan11&theme=cyberpunk&hide_border=true&background=0D0F18&stroke=00F0FF&alarm=FF0055" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmriskhan11&theme=cyberpunk&hide_border=true&background=0D0F18&stroke=00F0FF&alarm=FF0055" alt="GitHub Streak Stats" />
 </p>
 
 </div>
@@ -128,9 +129,9 @@ Motto: "Crafting digital experiences where aesthetic design meets intelligent co
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedriskhan11/mohammedriskhan11/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedriskhan11/mohammedriskhan11/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohammedriskhan11/mohammedriskhan11/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrmriskhan11/mohammedriskhan11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrmriskhan11/mohammedriskhan11/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrmriskhan11/mohammedriskhan11/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -147,7 +148,7 @@ Motto: "Crafting digital experiences where aesthetic design meets intelligent co
 
 <p align="center">
   <i>⚡ Designed with passion & powered by Cyberpunk Aesthetics ⚡</i><br />
-  <b>© Mohammed Riskhan</b>
+  <b>© Mohammed Riskhan (@mrmriskhan11)</b>
 </p>
 
 </div>
